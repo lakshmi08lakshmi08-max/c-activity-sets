@@ -1,4 +1,4 @@
-//Write a program to add two numbers using four functions
+ //Write a program to add two numbers using four functions
 #include <stdio.h>
 
 int input()

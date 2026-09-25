@@ -15,6 +15,7 @@ int main()
   {
     g = a/ 2;
   float x =  (g + a/n)/2;
+
   
   while( fabs(g- n) > 0.00001 )
   {   g = n;
